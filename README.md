@@ -1,21 +1,63 @@
-# Tableau-Water-Disparity
+# AquaSafe | Business Analytics for Humanitarian Product Deployment
 
-# AquaSafe: Business Analytics for Water Disparity and Product Deployment
+**AquaSafe** is a data-driven initiative developed as part of a multidisciplinary university capstone project. The goal was to evaluate global water stress and displacement data to inform the deployment strategy of a hypothetical water filtration product designed for humanitarian use.
 
-AquaSafe is a data-informed project focused on addressing water scarcity in regions affected by displacement. Developed as part of a multidisciplinary capstone, the project supports the strategic planning of a hypothetical water filtration product for humanitarian use.
+As the **Business Analytics Lead**, I was responsible for translating complex datasets into actionable insights that guided strategic decisions across finance, marketing, accounting, and international business functions.
 
-As the business analytics lead, I created demand forecasts and interactive dashboards using data from UNHCR and FAO AQUASTAT. The analysis identified high-priority deployment regions, such as Cambodia, and informed cross-functional decisions in marketing, finance, accounting, and international business.
+---
 
-## Key Features
+## Project Objective
 
-- Displacement trend forecasting (2025–2030) using Holt’s Linear Trend method
-- Tableau dashboard combining global water stress and displacement data
-- Strategic recommendations for market entry and NGO partnerships
-- Regional insights for campaign targeting, warehousing, and resource planning
+To identify high-need regions where water scarcity and population displacement intersect, and to recommend scalable, data-supported strategies for early product deployment and partnership development.
+
+---
+
+## My Contributions
+
+- **Forecast Modeling**  
+  Built displacement trend models (2025–2030) using Holt’s Linear Trend method in Excel under both baseline and high-impact scenarios.
+
+- **Data Visualization**  
+  Designed an interactive **Tableau dashboard** integrating FAO AQUASTAT and UNHCR data to identify regional hotspots for deployment.
+
+- **Strategic Analysis**  
+  Recommended Cambodia as a high-priority launch market based on quantitative analysis of water stress, rural infrastructure, and internal displacement trends.
+
+- **Cross-Functional Communication**  
+  Translated analytical findings into targeted insights for use by marketing (regional campaigns), finance (revenue projections), accounting (warehousing strategy), and international business (B2NGO partnerships).
+
+---
+
+## Tools & Technologies
+
+- Excel (Holt’s Linear Trend Forecasting)
+- Tableau (Geospatial Dashboards and Data Overlays)
+- FAO AQUASTAT (Global Water Stress Data)
+- UNHCR (Displacement Statistics)
+- Qualitative stakeholder input for validation and scenario testing
+
+---
+
+## Key Insights
+
+- Over 45 countries face high to extreme water stress, often overlapping with regions experiencing climate or conflict-driven displacement.
+- Forecasts indicate up to 30 million potential users of water filtration technology by 2030.
+- Localised strategies, such as targeting rural Cambodian provinces, increase both humanitarian impact and operational efficiency.
+
+---
 
 ## Data Sources
 
 - [UNHCR Displacement Statistics](https://www.unhcr.org/refugee-statistics/)
 - [FAO AQUASTAT Water Data](https://www.fao.org/aquastat/)
 
-This repository includes forecasting models, visual dashboards, and documentation used to support evidence-based planning for AquaSafe.
+---
+
+## About the Team
+
+This project was completed as part of MQBS3010, a business capstone course at Macquarie University. The team included students from finance, marketing, accounting, and international business. Collaboration was structured to simulate a real-world product launch and expansion strategy for an early-stage startup with social impact goals.
+
+
+---
+
+This repository demonstrates how data analytics can support ethical, scalable, and context-aware decision making in humanitarian contexts.
